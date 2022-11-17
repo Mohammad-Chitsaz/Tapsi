@@ -525,6 +525,7 @@ a {
 .nav-tab {
   display: flex;
   flex-wrap: nowrap;
+  overflow-y: hidden;
 }
 
 .nav-tab a {
